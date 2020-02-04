@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+        }
+    },
+    "require": {
+        "swiftmailer/swiftmailer": "^6.2.3"
+    }
+
+}
