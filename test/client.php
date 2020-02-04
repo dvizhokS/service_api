@@ -1,6 +1,6 @@
 <?php
 
-$url = 'http://localhost/server_api.php';
+$url = 'http://localhost/';
 
 $postfields = file_get_contents('test/example.json');
 // $postfields = '';
