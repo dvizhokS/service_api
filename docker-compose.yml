@@ -1,0 +1,10 @@
+version: '3.7'
+
+services:
+ service-api:
+  image: i_0
+  ports:
+  - "80:80"
+  - "2525:2525"
+  volumes:
+  - "~/config:/home/config"
