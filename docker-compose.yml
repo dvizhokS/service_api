@@ -2,7 +2,7 @@ version: '3.7'
 
 services:
  service-api:
-  image: i_0
+  image: dvizhoks/service-api
   ports:
   - "80:80"
   - "2525:2525"
